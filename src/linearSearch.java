@@ -33,6 +33,6 @@ public class linearSearch {
             }
         }
         return -1;
-        // time complexity is O(1)
+        // time complexity is O(n)
     }
 }
